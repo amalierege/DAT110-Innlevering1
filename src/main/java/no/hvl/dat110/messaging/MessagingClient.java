@@ -15,6 +15,7 @@ public class MessagingClient {
 	private int port;
 	
 	public MessagingClient(String server, int port) {
+
 		this.server = server;
 		this.port = port;
 	}
